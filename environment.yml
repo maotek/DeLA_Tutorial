@@ -15,4 +15,3 @@ dependencies:
   - jupyterlab
   - matplotlib
   - ipympl
-  - scikit-learn
