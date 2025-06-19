@@ -13,5 +13,8 @@ dependencies:
   - pandas
   - notebook
   - jupyterlab
+  - jupyterlab_widgets
   - matplotlib
+  - ipywidgets
   - ipympl
+  - plotly
