@@ -1,20 +1,16 @@
 name: Seminar
 channels:
   - pytorch
-  - defaults
   - conda-forge
 dependencies:
   - python=3.11
+  - notebook
+  - matplotlib
+  - jupyterlab
+  - ipympl
   - pytorch
   - torchvision
   - torchaudio
   - cpuonly
   - numpy
   - pandas
-  - notebook
-  - jupyterlab
-  - jupyterlab_widgets
-  - matplotlib
-  - ipywidgets
-  - ipympl
-  - plotly
